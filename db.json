@@ -2,27 +2,27 @@
   "Employee": [
     {
       "id": 1,
-      "name": "abc",
-      "uname": "abcd",
-      "password": "abcdef"
+      "name": "vinay",
+      "uname": "sir",
+      "password": "cjc"
     },
     {
       "id": 2,
-      "name": "pqr",
-      "uname": "xyz",
-      "password": "stu2"
+      "name": "tausif",
+      "uname": "Amravati",
+      "password": "maharashtra"
     },
     {
       "id": 3,
-      "name": "sss",
-      "uname": "ccc",
-      "password": "dd"
+      "name": "jugal",
+      "uname": "mokalkar",
+      "password": "amravati"
     },
     {
       "id": 4,
-      "name": "dsd",
-      "uname": "vdv",
-      "password": "ccd2"
+      "name": "lavish",
+      "uname": "kakad",
+      "password": "123"
     },
     {
       "id": 5,
@@ -32,9 +32,9 @@
     },
     {
       "id": 6,
-      "name": "mmf",
+      "name": "saurabh",
       "uname": "emf",
-      "password": "flux"
+      "password": "123"
     },
     {
       "id": 7,
