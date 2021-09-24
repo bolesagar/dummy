@@ -47,8 +47,14 @@
       "name": "sanket",
       "uname": "mane",
       "password": "jalgaon"
-    }
+    },
+    {
 
+      "id": 8,
+      "name": "sanket",
+      "uname": "mane",
+      "password": "jalgaon"
+    }
   ]
 
 }
