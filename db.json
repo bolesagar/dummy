@@ -1,14 +1,52 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Employee": [
+    {
+      "id": 1,
+      "name": "abc",
+      "uname": "abcd",
+      "password": "abcdef"
+    },
+    {
+      "id": 2,
+      "name": "pqr",
+      "uname": "xyz",
+      "password": "stu2"
+    },
+    {
+      "id": 3,
+      "name": "sss",
+      "uname": "ccc",
+      "password": "dd"
+    },
+    {
+      "id": 4,
+      "name": "dsd",
+      "uname": "vdv",
+      "password": "ccd2"
+    },
+    {
+      "id": 5,
+      "name": "sdb",
+      "uname": "emf",
+      "password": "tausif"
+    },
+    {
+      "id": 6,
+      "name": "mmf",
+      "uname": "emf",
+      "password": "flux"
+    },
+    {
+      "id": 7,
+      "name": "mm",
+      "uname": "pp",
+      "password": "qq"
+    },
+    {
+      "id": 8,
+      "name": "nn",
+      "uname": "MM",
+      "password": "aaq"
+    }
+  ]
 }
