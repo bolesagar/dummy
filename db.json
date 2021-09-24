@@ -3,8 +3,8 @@
     {
       "id": 1,
       "name": "vinay",
-      "uname": "vinay12",
-      "password": "abcdef"
+      "uname": "sir",
+      "password": "cjc"
     },
     {
       "id": 2,
@@ -47,6 +47,18 @@
       "name": "sanket",
       "uname": "mane",
       "password": "jalgaon"
+    }
+    {
+      "id": 9,
+      "name": "prasana",
+      "uname": "kulkarni",
+      "password": "bid"
+    }
+    {
+      "id": 10,
+      "name": "akshay",
+      "uname": "sir",
+      "password": "cjc"
     }
   ]
 }
