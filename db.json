@@ -2,27 +2,27 @@
   "Employee": [
     {
       "id": 1,
-      "name": "vinay",
-      "uname": "sir",
-      "password": "cjc"
+      "name": "abc",
+      "uname": "abcd",
+      "password": "abcdef"
     },
     {
       "id": 2,
-      "name": "tausif",
-      "uname": "tau",
-      "password": "1234"
+      "name": "pqr",
+      "uname": "xyz",
+      "password": "stu2"
     },
     {
       "id": 3,
-      "name": "jugal",
-      "uname": "mm",
-      "password": "abcded"
+      "name": "sss",
+      "uname": "ccc",
+      "password": "dd"
     },
     {
       "id": 4,
-      "name": "saurabh",
-      "uname": "kelani",
-      "password": "kk"
+      "name": "dsd",
+      "uname": "vdv",
+      "password": "ccd2"
     },
     {
       "id": 5,
@@ -32,29 +32,21 @@
     },
     {
       "id": 6,
-      "name": "lavish",
-      "uname": "kakad",
-      "password": "dfdfee"
+      "name": "mmf",
+      "uname": "emf",
+      "password": "flux"
     },
     {
       "id": 7,
-      "name": "aliya",
-      "uname": "aliya",
-      "password": "khan"
+      "name": "mm",
+      "uname": "pp",
+      "password": "qq"
     },
     {
       "id": 8,
-      "name": "sanket",
-      "uname": "mane",
-      "password": "jalgaon"
-    },
-    {
-
-      "id": 8,
-      "name": "sanket",
-      "uname": "mane",
-      "password": "jalgaon"
+      "name": "nn",
+      "uname": "MM",
+      "password": "aaq"
     }
   ]
-
 }
